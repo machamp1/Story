@@ -1,0 +1,1 @@
+This is inside text edit file.This is added via vim.This is not going on the 2nd line. Ok now it's on the 2nd line.
